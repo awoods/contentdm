@@ -1,0 +1,7139 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://purl.org/dc/schemas/dcmes-xml-20000714.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/57">
+    <dc:title>Cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070001001</dc:identifier>
+    <dc:source>chc00150000070001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/58">
+    <dc:title>Table of contents</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070002001</dc:identifier>
+    <dc:source>chc00150000070002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/59">
+    <dc:title>Page [1]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070003001</dc:identifier>
+    <dc:source>chc00150000070003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/60">
+    <dc:title>Page 2</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070004001</dc:identifier>
+    <dc:source>chc00150000070004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/61">
+    <dc:title>Page 3</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070005001</dc:identifier>
+    <dc:source>chc00150000070005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/62">
+    <dc:title>Page 4</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070006001</dc:identifier>
+    <dc:source>chc00150000070006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/63">
+    <dc:title>Page 5</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070007001</dc:identifier>
+    <dc:source>chc00150000070007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/64">
+    <dc:title>Page 6</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070008001</dc:identifier>
+    <dc:source>chc00150000070008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/65">
+    <dc:title>Page 7</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070009001</dc:identifier>
+    <dc:source>chc00150000070009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/66">
+    <dc:title>Page 8</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070010001</dc:identifier>
+    <dc:source>chc00150000070010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/67">
+    <dc:title>Page 9</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070011001</dc:identifier>
+    <dc:source>chc00150000070011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/68">
+    <dc:title>Page 10</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070012001</dc:identifier>
+    <dc:source>chc00150000070012001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/69">
+    <dc:title>Page 11</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070013001</dc:identifier>
+    <dc:source>chc00150000070013001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/70">
+    <dc:title>Page 12</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070014001</dc:identifier>
+    <dc:source>chc00150000070014001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/71">
+    <dc:title>Page 13</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070015001</dc:identifier>
+    <dc:source>chc00150000070015001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/72">
+    <dc:title>Page 14</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070016001</dc:identifier>
+    <dc:source>chc00150000070016001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/73">
+    <dc:title>Page 15</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070017001</dc:identifier>
+    <dc:source>chc00150000070017001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/74">
+    <dc:title>Page 16</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070018001</dc:identifier>
+    <dc:source>chc00150000070018001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/75">
+    <dc:title>Page 17</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070019001</dc:identifier>
+    <dc:source>chc00150000070019001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/76">
+    <dc:title>Page 18</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070020001</dc:identifier>
+    <dc:source>chc00150000070020001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/77">
+    <dc:title>Page 19</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000070021001</dc:identifier>
+    <dc:source>chc00150000070021001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/78">
+    <dc:title>Regiones económicas : contribución al estudio de las bases para su establecimiento en Cuba</dc:title>
+    <dc:creator>Arredondo Gutiérrez, Alberto</dc:creator>
+    <dc:subject>Cuba -- Economic conditions -- 1918-1959</dc:subject>
+    <dc:description>Typescript report on the economic regions in Cuba, prepared for the 1. Symposium nacional de Recursos Naturales de Cuba, held in February 1958
+On cover: SRNC/XI/TA. &quot;Punto XI: Recursos socioeconómicos.&quot;  Handwritten revisions on leaves 5, 6 and 11
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date>1958</dc:date>
+    <dc:type>Typescripts
+Text</dc:type>
+    <dc:format>1 typewritten document
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series II. Works by Alberto Arredondo, n.d., 1957-1965.  Sub-series B.  Published Works. Sub-sub-series 1. I Symposium Nacional de Recursos Naturales de Cuba.
+Box No. 2;  Folder No. 6;  Folder Title: Regiones Económicas: Contribuición al estudio de las bases para su establecimiento en Cuba;  Folder Date: 1957</dc:relation>
+    <dc:coverage>1950-1959
+Havana (Cuba)</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/105">
+    <dc:title>Page [1]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100001001</dc:identifier>
+    <dc:source>chc00150000100001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/106">
+    <dc:title>Page [2]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100002001</dc:identifier>
+    <dc:source>chc00150000100002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/107">
+    <dc:title>Page [3]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100003001</dc:identifier>
+    <dc:source>chc00150000100003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/108">
+    <dc:title>Page [4]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100004001</dc:identifier>
+    <dc:source>chc00150000100004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/109">
+    <dc:title>Page [5]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100005001</dc:identifier>
+    <dc:source>chc00150000100005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/110">
+    <dc:title>Page [6]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100006001</dc:identifier>
+    <dc:source>chc00150000100006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/111">
+    <dc:title>Page [7]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100007001</dc:identifier>
+    <dc:source>chc00150000100007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/112">
+    <dc:title>Page[ 8]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100008001</dc:identifier>
+    <dc:source>chc00150000100008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/113">
+    <dc:title>Page [9]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100009001</dc:identifier>
+    <dc:source>chc00150000100009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/114">
+    <dc:title>Page [10]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100010001</dc:identifier>
+    <dc:source>chc00150000100010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/115">
+    <dc:title>Page [11]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000100011001</dc:identifier>
+    <dc:source>chc00150000100011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/116">
+    <dc:title>Notes on employment and salaries in Cuba</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Industries -- Cuba; Cuba -- Economic conditions -- 1918-1959</dc:subject>
+    <dc:description>A collection of  miscellaneous leaves,mostly typescripts, containing short statistics and notes on industries in Cuba
+Several of the leaves have handwritten revisions or additions
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>Typescripts
+Text</dc:type>
+    <dc:format>1 typewritten document
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series IV. Subject Files, n.d., 1949-1968.
+Box No. 3;  Folder No. 21;  Folder Title: Cuba: Employment and Salaries;  Folder Date: n.d.</dc:relation>
+    <dc:coverage>1950-1959
+Cuba</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/117">
+    <dc:title>Cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090001001</dc:identifier>
+    <dc:source>chc00150000090001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/118">
+    <dc:title>Page [1]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090002001</dc:identifier>
+    <dc:source>chc00150000090002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/119">
+    <dc:title>Page 2</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090003001</dc:identifier>
+    <dc:source>chc00150000090003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/120">
+    <dc:title>Page 3</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090004001</dc:identifier>
+    <dc:source>chc00150000090004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/121">
+    <dc:title>Page 4</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090005001</dc:identifier>
+    <dc:source>chc00150000090005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/122">
+    <dc:title>Page 5</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090006001</dc:identifier>
+    <dc:source>chc00150000090006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/123">
+    <dc:title>Page 6</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090007001</dc:identifier>
+    <dc:source>chc00150000090007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/124">
+    <dc:title>Page 7</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090008001</dc:identifier>
+    <dc:source>chc00150000090008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/125">
+    <dc:title>Page 8</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090009001</dc:identifier>
+    <dc:source>chc00150000090009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/126">
+    <dc:title>Page 9</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090010001</dc:identifier>
+    <dc:source>chc00150000090010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/127">
+    <dc:title>Page 10</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090011001</dc:identifier>
+    <dc:source>chc00150000090011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/128">
+    <dc:title>Page 11</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090012001</dc:identifier>
+    <dc:source>chc00150000090012001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/129">
+    <dc:title>Page 12</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000090013001</dc:identifier>
+    <dc:source>chc00150000090013001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/130">
+    <dc:title>La industria cubana de impregnación y preservación de maderas de presión : breve estudio económico de carácter preliminar</dc:title>
+    <dc:creator>Arredondo Gutiérrez, Alberto</dc:creator>
+    <dc:subject>Maderas Impregnadas S.A.; Wood -- Preservation -- Cuba; Lumber -- Preservation -- Cuba</dc:subject>
+    <dc:description>Typescript report on the development of the wood preservation industry in Cuba
+On cover: &quot;Beneficios que a la economía cubana y a cualquier hombre o empresa -- le habría de reportar PONER EN MARCHA LOS EQUIPOS ACABADOS DE INSTALAR POR -- MADERAS IMPREGNADAS, S.A.&quot; Handwritten: &quot;Forestal&quot; and &quot;1a minuta&quot;
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date>1958-08-25</dc:date>
+    <dc:type>Typescripts
+Text</dc:type>
+    <dc:format>1 typewritten document
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series II.  Works by Alberto Arredondo, n.d., 1957-1965. Sub-series B. Published Works.
+Box No. 2;  Folder No. 3;  Folder Title: La Industria Cubana de Impregnación y Preservación de Maderas de Presión: Breve estudio económico de carácter preliminar;  Folder Date: 1958</dc:relation>
+    <dc:coverage>1950-1959
+Havana (Cuba)</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/210">
+    <dc:title>Cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060001001</dc:identifier>
+    <dc:source>chc00150000060001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/211">
+    <dc:title>Title page</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060002001</dc:identifier>
+    <dc:source>chc00150000060002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/212">
+    <dc:title>Page 1</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060003001</dc:identifier>
+    <dc:source>chc00150000060003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/213">
+    <dc:title>Page 2</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060004001</dc:identifier>
+    <dc:source>chc00150000060004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/214">
+    <dc:title>Page 3</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060005001</dc:identifier>
+    <dc:source>chc00150000060005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/215">
+    <dc:title>Page 4</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060006001</dc:identifier>
+    <dc:source>chc00150000060006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/216">
+    <dc:title>Page 5</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060007001</dc:identifier>
+    <dc:source>chc00150000060007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/217">
+    <dc:title>Page 6</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060008001</dc:identifier>
+    <dc:source>chc00150000060008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/218">
+    <dc:title>Page 7</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060009001</dc:identifier>
+    <dc:source>chc00150000060009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/219">
+    <dc:title>Page 8</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060010001</dc:identifier>
+    <dc:source>chc00150000060010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/220">
+    <dc:title>Page 9</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060011001</dc:identifier>
+    <dc:source>chc00150000060011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/221">
+    <dc:title>Page 10</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060012001</dc:identifier>
+    <dc:source>chc00150000060012001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/222">
+    <dc:title>Page 11</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060013001</dc:identifier>
+    <dc:source>chc00150000060013001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/223">
+    <dc:title>Page 12</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060014001</dc:identifier>
+    <dc:source>chc00150000060014001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/224">
+    <dc:title>Page 13</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000060015001</dc:identifier>
+    <dc:source>chc00150000060015001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/225">
+    <dc:title>El Negro cubano socio-económicamente considerado</dc:title>
+    <dc:creator>Arredondo Gutiérrez, Alberto</dc:creator>
+    <dc:subject>Blacks -- Cuba -- Social conditions; Blacks -- Cuba -- Economic conditions</dc:subject>
+    <dc:description>Typescript report on the social and economic conditions of Blacks in Cuba, prepared for the 1. Symposium Nacional de Recursos Naturales de Cuba, held Feb. 3-14, 1958
+On cover: SRNC/XI/TA, enero 1958. Recursos socioeconómicos. Cualidades psicofíscas del potencial humano por razones étnicas y evolutivo-históricas. Colaboración en estadísticas de Huver Fernández.  Stamp (mark) on cover:  Alberto Arredondo
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>Fernández, Huver
+
+</dc:contributor>
+    <dc:date>1958-02</dc:date>
+    <dc:type>Typescripts
+Text</dc:type>
+    <dc:format>1 document
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series II. Works by Alberto Arredondo, n.d., 1957-1965. Sub-series B.  Published Works. Sub-sub-series 1. I Symposium Nacional de Recursos Naturales de Cuba.
+Box No. 2; Folder No. 5; Folder Title: El Negro Cubano Socio-Económicamente Considerado; Folder Date: 1958</dc:relation>
+    <dc:coverage>1950-1959
+Havana (Cuba)</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/226">
+    <dc:title>Cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030001001</dc:identifier>
+    <dc:source>chc00150000030001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/227">
+    <dc:title>Title page</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030002001</dc:identifier>
+    <dc:source>chc00150000030002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/228">
+    <dc:title>Page Blank</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030003001</dc:identifier>
+    <dc:source>chc00150000030003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/229">
+    <dc:title>Page 1</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030004001</dc:identifier>
+    <dc:source>chc00150000030004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/230">
+    <dc:title>Page 2</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030005001</dc:identifier>
+    <dc:source>chc00150000030005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/231">
+    <dc:title>Page 3</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030006001</dc:identifier>
+    <dc:source>chc00150000030006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/232">
+    <dc:title>Page 4</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030007001</dc:identifier>
+    <dc:source>chc00150000030007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/233">
+    <dc:title>Page 5</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030008001</dc:identifier>
+    <dc:source>chc00150000030008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/234">
+    <dc:title>Page 6</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030009001</dc:identifier>
+    <dc:source>chc00150000030009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/235">
+    <dc:title>Page 7</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030010001</dc:identifier>
+    <dc:source>chc00150000030010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/236">
+    <dc:title>Page 8</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030011001</dc:identifier>
+    <dc:source>chc00150000030011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/237">
+    <dc:title>Page 9</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030012001</dc:identifier>
+    <dc:source>chc00150000030012001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/238">
+    <dc:title>Page 10</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030013001</dc:identifier>
+    <dc:source>chc00150000030013001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/239">
+    <dc:title>Page 11</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030014001</dc:identifier>
+    <dc:source>chc00150000030014001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/240">
+    <dc:title>Page 12</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030015001</dc:identifier>
+    <dc:source>chc00150000030015001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/241">
+    <dc:title>Page 13</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030016001</dc:identifier>
+    <dc:source>chc00150000030016001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/242">
+    <dc:title>Page 14</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030017001</dc:identifier>
+    <dc:source>chc00150000030017001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/243">
+    <dc:title>Page 15</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030018001</dc:identifier>
+    <dc:source>chc00150000030018001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/244">
+    <dc:title>Page 16</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030019001</dc:identifier>
+    <dc:source>chc00150000030019001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/245">
+    <dc:title>Page 17</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030020001</dc:identifier>
+    <dc:source>chc00150000030020001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/246">
+    <dc:title>Page 18</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030021001</dc:identifier>
+    <dc:source>chc00150000030021001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/247">
+    <dc:title>Page 19</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030022001</dc:identifier>
+    <dc:source>chc00150000030022001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/248">
+    <dc:title>Page 20</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030023001</dc:identifier>
+    <dc:source>chc00150000030023001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/249">
+    <dc:title>Page 21</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030024001</dc:identifier>
+    <dc:source>chc00150000030024001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/250">
+    <dc:title>Page 22</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030025001</dc:identifier>
+    <dc:source>chc00150000030025001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/251">
+    <dc:title>Page 23</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030026001</dc:identifier>
+    <dc:source>chc00150000030026001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/252">
+    <dc:title>Page 24</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030027001</dc:identifier>
+    <dc:source>chc00150000030027001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/253">
+    <dc:title>Page 25</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030028001</dc:identifier>
+    <dc:source>chc00150000030028001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/254">
+    <dc:title>Page 26</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030029001</dc:identifier>
+    <dc:source>chc00150000030029001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/255">
+    <dc:title>Page 27</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030030001</dc:identifier>
+    <dc:source>chc00150000030030001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/256">
+    <dc:title>Page 28</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030031001</dc:identifier>
+    <dc:source>chc00150000030031001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/257">
+    <dc:title>Page 29</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030032001</dc:identifier>
+    <dc:source>chc00150000030032001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/258">
+    <dc:title>Page 30</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030033001</dc:identifier>
+    <dc:source>chc00150000030033001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/259">
+    <dc:title>Page 31</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030034001</dc:identifier>
+    <dc:source>chc00150000030034001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/260">
+    <dc:title>Page 32</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030035001</dc:identifier>
+    <dc:source>chc00150000030035001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/261">
+    <dc:title>Page 33</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030036001</dc:identifier>
+    <dc:source>chc00150000030036001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/262">
+    <dc:title>Page 34</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030037001</dc:identifier>
+    <dc:source>chc00150000030037001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/263">
+    <dc:title>Page 35</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030038001</dc:identifier>
+    <dc:source>chc00150000030038001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/264">
+    <dc:title>Page 36</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030039001</dc:identifier>
+    <dc:source>chc00150000030039001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/265">
+    <dc:title>Page 37</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000030040001</dc:identifier>
+    <dc:source>chc00150000030040001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/266">
+    <dc:title>El cigarrillo cubano en Centro América, Panamá, Colombia y Venezuela : breve bosquejo económico-informativo</dc:title>
+    <dc:creator>Arredondo Gutiérrez, Alberto</dc:creator>
+    <dc:subject>Cigarette industry -- Cuba; Cigarette industry -- Latin America; Exports -- Cuba</dc:subject>
+    <dc:description>Typescript report about exporting Cuban cigarettes to Latin America, specifically  Regalías El Cuño cigarettes
+Label on cover: &quot;El cigarillo cubano  en el exterior: bosquejo económico, Exclusivo 'Regalías El Cuño'&quot;
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date>1959-09</dc:date>
+    <dc:type>Typescripts
+Text</dc:type>
+    <dc:format>1 document
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series II. Works by Alberto Arredondo, n.d., 1957-1965.  Sub-series B. Published Works.
+Box No. 2;  Folder No. 1;  Folder Title: El cigarrillo cubano en Centro América, Panamá, Colombia y Venezuela;  Folder Date: 1959</dc:relation>
+    <dc:coverage>1950-1959
+Havana (Cuba)</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/312">
+    <dc:title>Cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040001001</dc:identifier>
+    <dc:source>chc00150000040001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/313">
+    <dc:title>Verso of cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040002001</dc:identifier>
+    <dc:source>chc00150000040002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/314">
+    <dc:title>Title page</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040003001</dc:identifier>
+    <dc:source>chc00150000040003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/315">
+    <dc:title>Verso of title page</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040004001</dc:identifier>
+    <dc:source>chc00150000040004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/316">
+    <dc:title>Page [3]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040005001</dc:identifier>
+    <dc:source>chc00150000040005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/317">
+    <dc:title>Page [4]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040006001</dc:identifier>
+    <dc:source>chc00150000040006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/318">
+    <dc:title>Page 5</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040007001</dc:identifier>
+    <dc:source>chc00150000040007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/319">
+    <dc:title>Page 6</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040008001</dc:identifier>
+    <dc:source>chc00150000040008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/320">
+    <dc:title>Page 7</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040009001</dc:identifier>
+    <dc:source>chc00150000040009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/321">
+    <dc:title>Page 8</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040010001</dc:identifier>
+    <dc:source>chc00150000040010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/322">
+    <dc:title>Page 9</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040011001</dc:identifier>
+    <dc:source>chc00150000040011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/323">
+    <dc:title>Page 10</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040012001</dc:identifier>
+    <dc:source>chc00150000040012001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/324">
+    <dc:title>Page 11</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040013001</dc:identifier>
+    <dc:source>chc00150000040013001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/325">
+    <dc:title>Page 12</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040014001</dc:identifier>
+    <dc:source>chc00150000040014001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/326">
+    <dc:title>Page 13</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040015001</dc:identifier>
+    <dc:source>chc00150000040015001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/327">
+    <dc:title>Page 14</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040016001</dc:identifier>
+    <dc:source>chc00150000040016001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/328">
+    <dc:title>Page 15</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040017001</dc:identifier>
+    <dc:source>chc00150000040017001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/329">
+    <dc:title>Page 16</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040018001</dc:identifier>
+    <dc:source>chc00150000040018001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/330">
+    <dc:title>Page 17</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040019001</dc:identifier>
+    <dc:source>chc00150000040019001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/331">
+    <dc:title>Page 18</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040020001</dc:identifier>
+    <dc:source>chc00150000040020001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/332">
+    <dc:title>Page 19</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040021001</dc:identifier>
+    <dc:source>chc00150000040021001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/333">
+    <dc:title>Page 20</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040022001</dc:identifier>
+    <dc:source>chc00150000040022001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/334">
+    <dc:title>Page 21</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040023001</dc:identifier>
+    <dc:source>chc00150000040023001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/335">
+    <dc:title>Page 22</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040024001</dc:identifier>
+    <dc:source>chc00150000040024001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/336">
+    <dc:title>Page 23</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040025001</dc:identifier>
+    <dc:source>chc00150000040025001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/337">
+    <dc:title>Page 24</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040026001</dc:identifier>
+    <dc:source>chc00150000040026001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/338">
+    <dc:title>Page 25</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040027001</dc:identifier>
+    <dc:source>chc00150000040027001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/339">
+    <dc:title>Page 26</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040028001</dc:identifier>
+    <dc:source>chc00150000040028001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/340">
+    <dc:title>Page 27</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040029001</dc:identifier>
+    <dc:source>chc00150000040029001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/341">
+    <dc:title>Page 28</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040030001</dc:identifier>
+    <dc:source>chc00150000040030001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/342">
+    <dc:title>Page 29</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040031001</dc:identifier>
+    <dc:source>chc00150000040031001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/343">
+    <dc:title>Page 30</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040032001</dc:identifier>
+    <dc:source>chc00150000040032001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/344">
+    <dc:title>Page 31</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040033001</dc:identifier>
+    <dc:source>chc00150000040033001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/345">
+    <dc:title>Page 32</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040034001</dc:identifier>
+    <dc:source>chc00150000040034001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/346">
+    <dc:title>Page 33</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040035001</dc:identifier>
+    <dc:source>chc00150000040035001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/347">
+    <dc:title>Page 34</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040036001</dc:identifier>
+    <dc:source>chc00150000040036001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/348">
+    <dc:title>Page 35</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040037001</dc:identifier>
+    <dc:source>chc00150000040037001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/349">
+    <dc:title>Page [36]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040038001</dc:identifier>
+    <dc:source>chc00150000040038001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/350">
+    <dc:title>Page [37]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040039001</dc:identifier>
+    <dc:source>chc00150000040039001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/351">
+    <dc:title>Page [38]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040040001</dc:identifier>
+    <dc:source>chc00150000040040001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/352">
+    <dc:title>Page [39]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040041001</dc:identifier>
+    <dc:source>chc00150000040041001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/353">
+    <dc:title>Page [40]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040042001</dc:identifier>
+    <dc:source>chc00150000040042001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/354">
+    <dc:title>Page [41]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040043001</dc:identifier>
+    <dc:source>chc00150000040043001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/355">
+    <dc:title>Page [42]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000040044001</dc:identifier>
+    <dc:source>chc00150000040044001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/356">
+    <dc:title>La Historia secreta del comunismo cubano y sus purgas</dc:title>
+    <dc:creator>Arredondo Gutiérrez, Alberto</dc:creator>
+    <dc:subject>Communism -- Cuba -- History; Boti y Barreiro, Regino Eladio, 1878-1958; Castro, Fidel, 1926-; Cuba -- Foreign relations -- Soviet Union; Cuba -- History -- Revolution, 1959; Guevara, Ernesto, 1928-1967; Mella, Julio Antonio, 1903-1929; Núñez Jiménez, Antonio, 1923-1998; Peña, Lázaro, 1911-1974; Roca Calderío, Blas, 1908-1987; Rodríguez, Carlos Rafael, 1913-; Sánchez Manduley, Celia, 1920-1980; Valdés Menéndez, Ramiro, 1932-</dc:subject>
+    <dc:description>Booklet on the history of Communism in Cuba, especially in the early 1960's
+
+</dc:description>
+    <dc:publisher>Editorial A.I.P., Miami, Florida
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date>1965</dc:date>
+    <dc:type>Pamphlets
+Text</dc:type>
+    <dc:format>1 pamphlet
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series II.  Works by Alberto Arredondo, n.d., 1957-1965. Sub-series B.  Published Works.
+Box No. 2;  Folder No. 2; Folder Title: La Historia Secreta del Comunismo Cubano y sus Purgas; Folder Date: 1965</dc:relation>
+    <dc:coverage>1960-1969
+Miami (Fla.)</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/370">
+    <dc:title>Cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050001001</dc:identifier>
+    <dc:source>chc00150000050001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/371">
+    <dc:title>Table of contents</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050002001</dc:identifier>
+    <dc:source>chc00150000050002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/372">
+    <dc:title>Table of contents</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050003001</dc:identifier>
+    <dc:source>chc00150000050003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/373">
+    <dc:title>Table of contents</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050004001</dc:identifier>
+    <dc:source>chc00150000050004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/374">
+    <dc:title>Page [1]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050005001</dc:identifier>
+    <dc:source>chc00150000050005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/375">
+    <dc:title>Page 2</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050006001</dc:identifier>
+    <dc:source>chc00150000050006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/376">
+    <dc:title>Page 3</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050007001</dc:identifier>
+    <dc:source>chc00150000050007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/377">
+    <dc:title>Page 4</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050008001</dc:identifier>
+    <dc:source>chc00150000050008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/378">
+    <dc:title>Page 5</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050009001</dc:identifier>
+    <dc:source>chc00150000050009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/379">
+    <dc:title>Page 6</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050010001</dc:identifier>
+    <dc:source>chc00150000050010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/380">
+    <dc:title>Page 7</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050011001</dc:identifier>
+    <dc:source>chc00150000050011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/381">
+    <dc:title>Page 8</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050012001</dc:identifier>
+    <dc:source>chc00150000050012001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/382">
+    <dc:title>Page 9</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050013001</dc:identifier>
+    <dc:source>chc00150000050013001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/383">
+    <dc:title>Page 10</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050014001</dc:identifier>
+    <dc:source>chc00150000050014001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/384">
+    <dc:title>Page 11</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050015001</dc:identifier>
+    <dc:source>chc00150000050015001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/385">
+    <dc:title>Page 12</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050016001</dc:identifier>
+    <dc:source>chc00150000050016001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/386">
+    <dc:title>Page 13</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050017001</dc:identifier>
+    <dc:source>chc00150000050017001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/387">
+    <dc:title>Page 14</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050018001</dc:identifier>
+    <dc:source>chc00150000050018001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/388">
+    <dc:title>Page 15</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050019001</dc:identifier>
+    <dc:source>chc00150000050019001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/389">
+    <dc:title>Page 16</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050020001</dc:identifier>
+    <dc:source>chc00150000050020001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/390">
+    <dc:title>Page 17</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050021001</dc:identifier>
+    <dc:source>chc00150000050021001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/391">
+    <dc:title>Page 18</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050022001</dc:identifier>
+    <dc:source>chc00150000050022001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/392">
+    <dc:title>Page 19</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050023001</dc:identifier>
+    <dc:source>chc00150000050023001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/393">
+    <dc:title>Page 20</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050024001</dc:identifier>
+    <dc:source>chc00150000050024001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/394">
+    <dc:title>Page 21</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050025001</dc:identifier>
+    <dc:source>chc00150000050025001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/395">
+    <dc:title>Page 22</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050026001</dc:identifier>
+    <dc:source>chc00150000050026001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/396">
+    <dc:title>Page 23</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050027001</dc:identifier>
+    <dc:source>chc00150000050027001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/397">
+    <dc:title>Page 24</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050028001</dc:identifier>
+    <dc:source>chc00150000050028001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/398">
+    <dc:title>Page 25</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050029001</dc:identifier>
+    <dc:source>chc00150000050029001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/399">
+    <dc:title>Page 26</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050030001</dc:identifier>
+    <dc:source>chc00150000050030001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/400">
+    <dc:title>Page 27</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050031001</dc:identifier>
+    <dc:source>chc00150000050031001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/401">
+    <dc:title>Page 28</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050032001</dc:identifier>
+    <dc:source>chc00150000050032001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/402">
+    <dc:title>Page 29</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050033001</dc:identifier>
+    <dc:source>chc00150000050033001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/403">
+    <dc:title>Page 30</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050034001</dc:identifier>
+    <dc:source>chc00150000050034001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/404">
+    <dc:title>Page 31</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050035001</dc:identifier>
+    <dc:source>chc00150000050035001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/405">
+    <dc:title>Page 32</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050036001</dc:identifier>
+    <dc:source>chc00150000050036001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/406">
+    <dc:title>Page 33</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050037001</dc:identifier>
+    <dc:source>chc00150000050037001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/407">
+    <dc:title>Page 34</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050038001</dc:identifier>
+    <dc:source>chc00150000050038001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/408">
+    <dc:title>Page 35</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050039001</dc:identifier>
+    <dc:source>chc00150000050039001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/409">
+    <dc:title>Page 36</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050040001</dc:identifier>
+    <dc:source>chc00150000050040001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/410">
+    <dc:title>Page 37</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050041001</dc:identifier>
+    <dc:source>chc00150000050041001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/411">
+    <dc:title>Page 38</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050042001</dc:identifier>
+    <dc:source>chc00150000050042001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/412">
+    <dc:title>Page 39</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050043001</dc:identifier>
+    <dc:source>chc00150000050043001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/413">
+    <dc:title>Page 40</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050044001</dc:identifier>
+    <dc:source>chc00150000050044001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/414">
+    <dc:title>Page 41</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050045001</dc:identifier>
+    <dc:source>chc00150000050045001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/415">
+    <dc:title>Page 42</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050046001</dc:identifier>
+    <dc:source>chc00150000050046001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/416">
+    <dc:title>Page 43</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050047001</dc:identifier>
+    <dc:source>chc00150000050047001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/417">
+    <dc:title>Page 44</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050048001</dc:identifier>
+    <dc:source>chc00150000050048001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/418">
+    <dc:title>Page 45</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050049001</dc:identifier>
+    <dc:source>chc00150000050049001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/419">
+    <dc:title>Page 46</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050050001</dc:identifier>
+    <dc:source>chc00150000050050001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/420">
+    <dc:title>Page 47</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050051001</dc:identifier>
+    <dc:source>chc00150000050051001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/421">
+    <dc:title>Page 48</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050052001</dc:identifier>
+    <dc:source>chc00150000050052001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/422">
+    <dc:title>Page 49</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050053001</dc:identifier>
+    <dc:source>chc00150000050053001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/423">
+    <dc:title>Page 50</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050054001</dc:identifier>
+    <dc:source>chc00150000050054001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/424">
+    <dc:title>Page 51</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050055001</dc:identifier>
+    <dc:source>chc00150000050055001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/425">
+    <dc:title>Page 52</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050056001</dc:identifier>
+    <dc:source>chc00150000050056001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/426">
+    <dc:title>Page 53</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050057001</dc:identifier>
+    <dc:source>chc00150000050057001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/427">
+    <dc:title>Page 54</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050058001</dc:identifier>
+    <dc:source>chc00150000050058001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/428">
+    <dc:title>Page 55</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050059001</dc:identifier>
+    <dc:source>chc00150000050059001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/429">
+    <dc:title>Page 56</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050060001</dc:identifier>
+    <dc:source>chc00150000050060001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/430">
+    <dc:title>Page 57</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050061001</dc:identifier>
+    <dc:source>chc00150000050061001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/431">
+    <dc:title>Page 58</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050062001</dc:identifier>
+    <dc:source>chc00150000050062001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/432">
+    <dc:title>Page 59</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050063001</dc:identifier>
+    <dc:source>chc00150000050063001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/433">
+    <dc:title>Page 60</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050064001</dc:identifier>
+    <dc:source>chc00150000050064001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/434">
+    <dc:title>Page 61</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050065001</dc:identifier>
+    <dc:source>chc00150000050065001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/435">
+    <dc:title>Page 62</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050066001</dc:identifier>
+    <dc:source>chc00150000050066001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/436">
+    <dc:title>Page 63</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050067001</dc:identifier>
+    <dc:source>chc00150000050067001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/438">
+    <dc:title>Page 65</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050069001</dc:identifier>
+    <dc:source>chc00150000050069001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/439">
+    <dc:title>Page 66</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050070001</dc:identifier>
+    <dc:source>chc00150000050070001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/440">
+    <dc:title>Page 67</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050071001</dc:identifier>
+    <dc:source>chc00150000050071001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/441">
+    <dc:title>Page 68</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050072001</dc:identifier>
+    <dc:source>chc00150000050072001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/442">
+    <dc:title>Page 69</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050073001</dc:identifier>
+    <dc:source>chc00150000050073001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/443">
+    <dc:title>Page 70</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050074001</dc:identifier>
+    <dc:source>chc00150000050074001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/444">
+    <dc:title>Page 71</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050075001</dc:identifier>
+    <dc:source>chc00150000050075001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/445">
+    <dc:title>Page 72</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050076001</dc:identifier>
+    <dc:source>chc00150000050076001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/446">
+    <dc:title>Page 73</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050077001</dc:identifier>
+    <dc:source>chc00150000050077001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/447">
+    <dc:title>Page 74 [Blank]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000050078001</dc:identifier>
+    <dc:source>chc00150000050078001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/448">
+    <dc:title>Características y objetivos del industrialismo cubano</dc:title>
+    <dc:creator>Arredondo Gutiérrez, Alberto</dc:creator>
+    <dc:subject>Industries -- Cuba; Cuba -- Economic conditions -- 1918-1959</dc:subject>
+    <dc:description>Typescript report on the industrial development of Cuba, prepared for the 1. Symposium Nacional de Recursos Naturales de Cuba, held in February 1958.
+At head of title: &quot;SRNC/VIII/TA&quot;&amp;lt;br&amp;gt;On cover: &quot;Punto VIII: Industria.&quot;  &quot;Presentado por Alberto Arredondo a nombre del Instituto Nacional de Reforma Económica (I.N.R.E.).&quot; Handwritten on cover: &quot;Arreglar. El cuadro final de industrias y los antecedentes, error de Ricardito y del mecanógra[fo] después que no hicieron los arreglos a temor de nota mía que perdieron.&quot; Stamp (mark) on cover: &quot;Alberto Arredondo&quot;
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date>1958</dc:date>
+    <dc:type>Typescripts
+Text</dc:type>
+    <dc:format>1 document
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series II. Works by Alberto Arredondo, n.d., 1957-1965. Sub-series B. Published Works. Sub-sub-series 1. I Symposium Nacional de Recursos Naturales de Cuba
+Box No. 2;  Folder No. 4; Folder Title: Características y Objetivos del Industrialismo Cubano;  Folder Date: n.d.</dc:relation>
+    <dc:coverage>1950-1959
+Havana (Cuba)</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/449">
+    <dc:title>Cover</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080001001</dc:identifier>
+    <dc:source>chc00150000080001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/450">
+    <dc:title>Page [1]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080002001</dc:identifier>
+    <dc:source>chc00150000080002001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/451">
+    <dc:title>Page 2</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080003001</dc:identifier>
+    <dc:source>chc00150000080003001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/452">
+    <dc:title>Page 3</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080004001</dc:identifier>
+    <dc:source>chc00150000080004001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/453">
+    <dc:title>Page 4</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080005001</dc:identifier>
+    <dc:source>chc00150000080005001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/454">
+    <dc:title>Page 5</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080006001</dc:identifier>
+    <dc:source>chc00150000080006001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/455">
+    <dc:title>Page 6</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080007001</dc:identifier>
+    <dc:source>chc00150000080007001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/456">
+    <dc:title>Page 7</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080008001</dc:identifier>
+    <dc:source>chc00150000080008001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/457">
+    <dc:title>Page 8</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080009001</dc:identifier>
+    <dc:source>chc00150000080009001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/458">
+    <dc:title>Page 9</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080010001</dc:identifier>
+    <dc:source>chc00150000080010001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/459">
+    <dc:title>Page 10</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080011001</dc:identifier>
+    <dc:source>chc00150000080011001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/460">
+    <dc:title>Page [11]</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+Text</dc:type>
+    <dc:format>
+image/tiff</dc:format>
+    <dc:identifier>chc00150000080012001</dc:identifier>
+    <dc:source>chc00150000080012001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/461">
+    <dc:title>Recursos socio-económicos y recursos de la tierra : resumen sintético del plan preliminar para incrementar la producción de artículos alimenticios</dc:title>
+    <dc:creator>Arredondo Gutiérrez, Alberto</dc:creator>
+    <dc:subject>Agriculture -- Cuba; Farm produce -- Cuba</dc:subject>
+    <dc:description>Typescript report on the preliminary plan to increase production of farm products in Cuba, prepared for the 1. Symposium nacional de Recursos Naaturales de Cuba, held Feb. 3-14, 1958.
+On cover: SRNC/XI/TA Enero 1958. Presentado por: Dpto de Economía Interna del Consejo Nacional de Ecoomía.
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date>1958-01</dc:date>
+    <dc:type>Typescripts
+Text</dc:type>
+    <dc:format>1 typewritten document
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series II. Works by Alberto Arredondo, n.d., 1957c. 1965. Sub-series B.  Published Works. Sub-sub-series 1. I Symposium Nacional de Recursos Naturales de Cuba
+Box No. 2;  Folder No.: 7;  Folder Title: Resumen Sintético del Plan Preliminar para Incrementar la Producción de Artículos Alimenticios;  Folder Date: 1957-1958</dc:relation>
+    <dc:coverage>1950-1959
+Havana (Cuba)</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/484">
+    <dc:title>Alberto Arredondo</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Arredondo Gutiérrez, Alberto; Journalists -- Cuba -- Photographs; Portrait photography</dc:subject>
+    <dc:description>Alberto Arredondo, Cuban journalist, sitting in a chair, speaking.
+On recto: &quot;Para Armandito, con el cariño de su hermano Alberto.  Marzo 26, 1958&quot;
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date>1958</dc:date>
+    <dc:type>Photographs
+Image</dc:type>
+    <dc:format>1  b&amp;w photograph
+image/tiff</dc:format>
+    <dc:identifier>chc00150000020001001</dc:identifier>
+    <dc:source>chc00150000020001001.tif</dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series I. Personal Files, n.d., 1951-1965.
+Box No. 1;  Folder No. 2; Folder Title: Photographs; Folder Date: n.d., 1958</dc:relation>
+    <dc:coverage>1950-1959
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/485">
+    <dc:title>Side 1</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+image/tiff</dc:type>
+    <dc:format>
+stillImage</dc:format>
+    <dc:identifier>chc00150000010001001</dc:identifier>
+    <dc:source>chc00150000010001001.tif</dc:source>
+    <dc:language></dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/486">
+    <dc:title>Side 2</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+image/tiff</dc:type>
+    <dc:format>
+stillImage</dc:format>
+    <dc:identifier>chc00150000010002001</dc:identifier>
+    <dc:source>chc00150000010002001.tif</dc:source>
+    <dc:language></dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>http://merrick.library.miami.edu/digitalprojects/copyright.html
+</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/487">
+    <dc:title>Alberto Arredondo</dc:title>
+    <dc:creator>Armand</dc:creator>
+    <dc:subject>Arredondo Gutiérrez, Alberto; Journalists -- Cuba -- Photographs; Portrait photography</dc:subject>
+    <dc:description>Portrait of Alberto Arredondo, Cuban journalist
+On recto: &quot;Armand, La Habana.&quot; Stamp (marks) on verso: &quot;Se suplica acusar recibo&quot; and &quot;Alberto Arredondo, Apartado 816, Habana&quot;
+</dc:description>
+    <dc:publisher>
+University of Miami Libraries. Cuban Heritage Collection</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>Portrait photographs; Postcards
+Image</dc:type>
+    <dc:format>1 b&amp;w postcard
+image/tiff</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>spa</dc:language>
+    <dc:relation>Alberto Arrendondo Papers.
+CHC0015
+Series I. Personal Files, n.d., 1951-1965.
+Box No. 1;  Folder No. 2; Folder Title: Photographs;  Folder Date: n.d., 1958</dc:relation>
+    <dc:coverage>1930-1939
+</dc:coverage>
+    <dc:rights>
+http://merrick.library.miami.edu/digitalprojects/copyright.html</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://merrick.library.miami.edu:80/cdm/ref/collection/chc0015/id/497">
+    <dc:title>Page 64</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>
+
+</dc:description>
+    <dc:publisher>
+</dc:publisher>
+    <dc:contributor>
+
+</dc:contributor>
+    <dc:date></dc:date>
+    <dc:type>
+</dc:type>
+    <dc:format>
+</dc:format>
+    <dc:identifier>chc00150000050068001</dc:identifier>
+    <dc:source>chc00150000050068001.tif</dc:source>
+    <dc:language></dc:language>
+    <dc:relation>
+
+
+</dc:relation>
+    <dc:coverage>
+</dc:coverage>
+    <dc:rights>
+</dc:rights>
+  </rdf:Description>
+</rdf:RDF>
